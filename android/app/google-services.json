@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184564208264",
+    "project_id": "appcatalogo-bb534",
+    "storage_bucket": "appcatalogo-bb534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184564208264:android:4512929eaa75abf9b8c53d",
+        "android_client_info": {
+          "package_name": "unacorbatanegra.dev.tektonlabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184564208264-3qhpc0dmcsfstlit0l9ti8hqa0n76b5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAkzcKdJuKkauFIPKMXd2ntyLOdRJVZzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184564208264-3qhpc0dmcsfstlit0l9ti8hqa0n76b5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

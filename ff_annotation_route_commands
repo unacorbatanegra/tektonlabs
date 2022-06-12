@@ -1,0 +1,1 @@
+-s --routes-file-output src/routes -o src/routes -n RouteName
