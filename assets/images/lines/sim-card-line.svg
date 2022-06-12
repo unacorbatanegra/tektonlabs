@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="sim-card-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" />
+<sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg5" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 10.828125,2 C 10.032882,2 9.2693755,2.316562 8.7070313,2.8789063 L 4.8789062,6.7070312 C 4.3165683,7.2693692 4,8.0328616 4,8.828125 V 19 c 0,1.643345 1.3530571,3 2.9980469,3 H 17 c 1.645005,0 3,-1.355478 3,-3 V 5 C 20,3.3550102 18.645023,2 17,2 Z m 0,2 H 17 c 0.564175,0 1,0.435852 1,1 v 14 c 0,0.564675 -0.435807,1 -1,1 H 6.9980469 C 6.4338989,20 6,19.565852 6,19 V 8.828125 C 6,8.5625094 6.1051474,8.3089151 6.2929687,8.1210938 L 10.121094,4.2929687 C 10.308909,4.1051537 10.562569,4 10.828125,4 Z"
+   id="path2" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

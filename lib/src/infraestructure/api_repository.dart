@@ -13,16 +13,8 @@ class ApiRepository {
       BaseOptions(
         baseUrl: AppConfig.url,
         validateStatus: (status) => (status ?? 500) < 501,
-        // contentType: 'application/json',
         receiveDataWhenStatusError: true,
-        // connectTimeout: 15000,
-        // receiveTimeout: 10000,
-
         headers: {
-          'ForceUseSession': true,
-          // 'Accept': 'application/json; odata=verbose',
-          // 'Content-Type': 'application/json; odata=verbose',
-          // 'Content-Type': 'application/json',
           'Content-Type': 'application/json; charset=utf-8',
         },
       ),

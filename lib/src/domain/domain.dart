@@ -10,13 +10,15 @@ export '../repository/repositories.dart';
 abstract class Domain<T> {
   void init();
 
-
   void showError(
     ApiResponse? response, {
     String? error,
   }) =>
       DialogHelper.showError(
         error ?? response?.error ?? '',
+      );
+  void showInfo(String info) => DialogHelper.showInfo(
+        info,
       );
   void showSucces(
     String message,

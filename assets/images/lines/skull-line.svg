@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="skull-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs21" />
+<sodipodi:namedview
+   id="namedview19"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg17" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 12,2 C 9.3115638,2 6.8277208,2.8176119 4.9902344,4.3730469 3.1527479,5.9284818 2,8.2445024 2,11 c 0,2.214449 0.7772673,4.233643 2,5.892578 V 19 c 0,1.645023 1.3550102,3 3,3 h 10 c 1.645005,0 3,-1.354995 3,-3 V 16.892578 C 21.222733,15.233643 22,13.214449 22,11 22,8.244505 20.847248,5.9284831 19.009766,4.3730469 17.172283,2.8176106 14.688455,2 12,2 Z m 0,2 c 2.28214,0 4.298886,0.6965165 5.71875,1.8984375 C 19.138614,7.1003585 20,8.7849399 20,11 c 0,1.757724 -0.611755,3.340241 -1.568359,4.658203 H 17.5 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 H 18 V 19 c 0,0.564193 -0.435807,1 -1,1 H 7 C 6.435852,20 6,19.564175 6,19 v -1.341797 h 0.5 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 H 5.5683594 C 4.6117547,14.340241 4,12.757724 4,11 4,8.7849426 4.8613797,7.1003598 6.28125,5.8984375 7.7011203,4.6965152 9.7178811,4 12,4 Z"
+   id="path2" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 8,10 c -1.0927238,0 -2,0.907276 -2,2 0,1.092724 0.9072762,2 2,2 1.0927238,0 2,-0.907276 2,-2 0,-1.092724 -0.9072762,-2 -2,-2 z"
+   id="circle4" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 12,13 a 1.0001,1.0001 0 0 0 -0.894531,0.552734 l -1,2 A 1.0001,1.0001 0 0 0 11,17 h 2 a 1.0001,1.0001 0 0 0 0.894531,-1.447266 l -1,-2 A 1.0001,1.0001 0 0 0 12,13 Z"
+   id="path6" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 9,18 a 1,1 0 0 0 -1,1 v 2 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 19 A 1,1 0 0 0 9,18 Z"
+   id="path8" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 12,18 a 1,1 0 0 0 -1,1 v 2 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 v -2 a 1,1 0 0 0 -1,-1 z"
+   id="path10" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 15,18 a 1,1 0 0 0 -1,1 v 2 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 v -2 a 1,1 0 0 0 -1,-1 z"
+   id="path12" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 16,10 c -1.092724,0 -2,0.907276 -2,2 0,1.092724 0.907276,2 2,2 1.092724,0 2,-0.907276 2,-2 0,-1.092724 -0.907276,-2 -2,-2 z"
+   id="circle14" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

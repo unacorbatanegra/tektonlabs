@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="printer-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs11" />
+<sodipodi:namedview
+   id="namedview9"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg7" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 8,2 C 6.3549921,2 5,3.3549921 5,5 V 6 C 3.3549921,6 2,7.3549921 2,9 v 6 c 0,1.645023 1.3550102,3 3,3 h 1 v 1 c 0,1.645023 1.3550102,3 3,3 h 6 c 1.645005,0 3,-1.354995 3,-3 v -1 h 1 c 1.645005,0 3,-1.354995 3,-3 V 10 9 C 22,7.3550102 20.645023,6 19,6 V 5 C 19,3.3550102 17.645023,2 16,2 Z m 0,2 h 8 c 0.564175,0 1,0.435852 1,1 V 6 H 7 V 5 C 7,4.4358701 7.4358701,4 8,4 Z M 5,8 h 1 12 1 c 0.564175,0 1,0.435852 1,1 v 1 5 c 0,0.564193 -0.435807,1 -1,1 h -1 v -1 c 0,-1.645005 -1.354995,-3 -3,-3 H 9 c -1.6449898,0 -3,1.354977 -3,3 v 1 H 5 C 4.435852,16 4,15.564175 4,15 V 9 C 4,8.4358701 4.4358701,8 5,8 Z m 4,6 h 6 c 0.564193,0 1,0.435807 1,1 v 2 2 c 0,0.564193 -0.435807,1 -1,1 H 9 C 8.435852,20 8,19.564175 8,19 v -2 -2 c 0,-0.564175 0.435852,-1 1,-1 z"
+   id="path2" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 7,9 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 H 8 A 1,1 0 0 0 9,10 1,1 0 0 0 8,9 Z"
+   id="path4" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

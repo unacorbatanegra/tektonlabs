@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="chat-2-text-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" />
+<sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg5" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 12,2 C 6.0448043,2 1,5.9061756 1,11 c 0,2.210785 1.0836834,4.154325 2.6523438,5.695312 -0.5158267,1.577769 -1.4601981,2.69848 -2.3593751,3.597657 A 1.0001,1.0001 0 0 0 2,22 C 4.9897085,22 6.8267345,20.929096 8.5605469,19.476562 9.6539687,19.772829 10.789491,20 12,20 17.955147,20 23,16.093849 23,11 23,5.9061681 17.95515,2 12,2 Z m 0,2 c 5.090439,0 9,3.2572807 9,7 0,3.742742 -3.909558,7 -9,7 -1.197495,0 -2.3370325,-0.182343 -3.3769531,-0.511719 a 1.0001,1.0001 0 0 0 -0.9628907,0.203125 c -1.063865,0.937523 -2.0337313,1.490223 -3.1660156,1.857422 0.5162574,-0.769636 0.9993197,-1.650424 1.2773438,-2.75 A 1.0001,1.0001 0 0 0 5.4394531,15.783203 C 3.8929667,14.500297 3,12.826954 3,11 3,7.2572732 6.9095067,4 12,4 Z M 8,7 A 1,1 0 0 0 7,8 1,1 0 0 0 8,9 h 8 A 1,1 0 0 0 17,8 1,1 0 0 0 16,7 Z m 0,3 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 0,3 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 3 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path2" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

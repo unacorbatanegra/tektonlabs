@@ -5,6 +5,9 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables,unused_local_variable,unused_import,unnecessary_import
 const List<String> routeNames = <String>[
   '/',
+  '/favorites',
+  '/menu',
+  '/product',
 ];
 
 class RouteName {
@@ -12,7 +15,7 @@ class RouteName {
 
   /// '/'
   ///
-  /// [title] : '/'
+  /// [name] : '/'
   ///
   /// [routeName] : '/'
   ///
@@ -20,4 +23,31 @@ class RouteName {
   ///
   /// RootPage : [Key? key]
   static const String root = '/';
+
+  /// '/favorites'
+  ///
+  /// [name] : '/favorites'
+  ///
+  /// [constructors] :
+  ///
+  /// FavoritesPage : [Key? key]
+  static const String favorites = '/favorites';
+
+  /// '/menu'
+  ///
+  /// [name] : '/menu'
+  ///
+  /// [constructors] :
+  ///
+  /// MenuPage : [Key? key]
+  static const String menu = '/menu';
+
+  /// '/product'
+  ///
+  /// [name] : '/product'
+  ///
+  /// [constructors] :
+  ///
+  /// ProductPage : [Key? key]
+  static const String product = '/product';
 }

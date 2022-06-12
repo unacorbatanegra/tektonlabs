@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="globe-earth-2-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs11" />
+<sodipodi:namedview
+   id="namedview9"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg7" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 12,2 C 6.4890026,2 2,6.4890026 2,12 2,17.510997 6.4890026,22 12,22 17.510997,22 22,17.510997 22,12 22,6.4890026 17.510997,2 12,2 Z m 0,2 c 4.430118,0 8,3.5698818 8,8 0,4.430118 -3.569882,8 -8,8 C 7.5698818,20 4,16.430118 4,12 4,7.5698818 7.5698818,4 12,4 Z"
+   id="circle2" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 16,3 a 1,1 0 0 0 -1,1 c 0,0.564148 -0.435825,1 -1,1 H 13.5 C 12.131146,5 11,6.1311113 11,7.5 V 8 C 9.9072702,8 9,8.9072947 9,10 v 1 c 0,1.645005 1.354995,3 3,3 h 2 c 0.564193,0 1,0.435807 1,1 0,1.645005 1.354995,3 3,3 h 1 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 h -1 c -0.564193,0 -1,-0.435807 -1,-1 0,-1.645005 -1.354995,-3 -3,-3 h -2 c -0.564193,0 -1,-0.435807 -1,-1 v -1 c 1.09273,0 2,-0.9072947 2,-2 V 7.5 C 13,7.2120304 13.212056,7 13.5,7 H 14 c 1.645023,0 3,-1.3550102 3,-3 A 1,1 0 0 0 16,3 Z M 3.5996094,8.5058594 A 1,1 0 0 0 2.8671875,8.7265625 1,1 0 0 0 2.7265625,10.132813 l 4.1660156,5.09375 C 6.9618995,15.31128 7,15.415859 7,15.525391 7,16.890429 8.1318708,18 9.4863281,18 9.7743804,18 10,18.222622 10,18.5 V 21 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 18.5 C 12,17.120579 10.855234,16 9.4863281,16 9.212787,16 9,15.78835 9,15.525391 9,14.954523 8.8029845,14.400867 8.4414063,13.958984 L 4.2734375,8.8671875 A 1,1 0 0 0 3.5996094,8.5058594 Z"
+   id="path4" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

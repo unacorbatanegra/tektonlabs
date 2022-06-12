@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="comment-2-text-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" />
+<sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg5" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 5,3 C 3.3549921,3 2,4.3549921 2,6 v 10 c 0,1.645023 1.3550102,3 3,3 H 8.1875 C 8.6479834,19 9,19.352054 9,19.8125 c 0,0.80668 0.5239885,1.491727 1.175781,1.761719 0.651793,0.269991 1.507719,0.156343 2.078125,-0.414063 l 1.867188,-1.867187 C 14.308939,19.105124 14.562557,19 14.828125,19 H 19 c 1.645005,0 3,-1.354995 3,-3 V 6 C 22,4.3550102 20.645023,3 19,3 Z m 0,2 h 14 c 0.564175,0 1,0.435852 1,1 v 10 c 0,0.564193 -0.435807,1 -1,1 h -4.171875 c -0.795231,0 -1.55874,0.316552 -2.121094,0.878906 l -1.773437,1.773438 C 10.836806,18.195617 9.6667137,17 8.1875,17 H 5 C 4.435852,17 4,16.564175 4,16 V 6 C 4,5.4358701 4.4358701,5 5,5 Z M 7,7 A 1,1 0 0 0 6,8 1,1 0 0 0 7,9 H 17 A 1,1 0 0 0 18,8 1,1 0 0 0 17,7 Z m 0,3 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 10 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 0,3 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 4 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path2" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

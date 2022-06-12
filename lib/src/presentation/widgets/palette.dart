@@ -15,6 +15,7 @@ abstract class Palette {
   static const gray4 = Color(0xFFBDBDBD);
   static const gray5 = Color(0xFFE0E0E0);
   static const gray6 = Color(0xFFF2F2F2);
+   static const culture = Color(0xFFEFF1F3);
 }
 
 extension ToMaterialColor on Color {

@@ -1,4 +1,5 @@
 import 'package:flutter/services.dart';
+import 'package:hive/hive.dart';
 
 import 'src/app.dart';
 import 'src/infraestructure/dependencies.dart';
@@ -30,7 +31,7 @@ void main() async {
     ],
   );
   // Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
-  await Dependencies.init();
+  await Dependencies.init(Hive);
 
   // FirebaseCrashlytics.instance.crash();
   runApp(const App());

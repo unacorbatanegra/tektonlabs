@@ -1,12 +1,17 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:tektonlabs/src/domain/domains.dart';
+import 'package:hive/hive.dart';
+import 'package:mockito/mockito.dart';
+import 'package:tektonlabs/src/domain/domain.dart';
+import 'package:tektonlabs/src/domain/product/product_domain.dart';
 import 'package:tektonlabs/src/presentation/pages/home/home_page.dart';
 import 'package:tektonlabs/src/presentation/widgets/widgets.dart';
+
+class MockHiveInterface extends Mock implements HiveInterface {}
 
 void main() {
   setUp(() {
     getIt.registerSingleton<ProductDomain>(
-        ProductDomainImpl(ProductRepositoryImpl()));
+        ProductDomainImpl(ProductRepositoryImpl(MockHiveInterface())));
   });
   testWidgets(
     "Search",

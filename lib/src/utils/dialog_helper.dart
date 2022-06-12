@@ -37,6 +37,26 @@ mixin DialogHelper {
       ),
     );
   }
+  static void showInfo(String text) {
+    key.currentState?.clearSnackBars();
+    controller = key.currentState!.showSnackBar(
+      SnackBar(
+        backgroundColor: Palette.gray6,
+        behavior: SnackBarBehavior.floating,
+        elevation: 12,
+        margin: const EdgeInsets.all(18.0),
+        padding: const EdgeInsets.all(18.0),
+        content: Text(
+          text,
+          style: const TextStyle(
+            color: Colors.black,
+            fontWeight: FontWeight.w400,
+            fontSize: 14,
+          ),
+        ),
+      ),
+    );
+  }
 
   static void showSuccess(String message) {
     if (isPreloading) hidePreloader();
@@ -62,21 +82,41 @@ mixin DialogHelper {
 
   static Future<bool> ifDialog({
     required BuildContext context,
-    required String message,
+    required String message, 
+    String title = '',
+    String cancel = 'Cancel',
+    String accept = 'Accept',
   }) async {
     final result = await showDialog(
       context: context,
       builder: (ctx) => AlertDialog(
-        title: const Text('Atention'),
-        content: Text(message),
+        title: Text(
+          title,
+          style: const TextStyle(
+            color: Colors.black,
+            fontSize: 20.0,
+            fontWeight: FontWeight.w900,
+          ),
+        ),
+        content: Text(
+          message,
+          style: const TextStyle(
+            fontWeight: FontWeight.w400,
+            fontSize: 16.0,
+          ),
+        ),
         actions: [
-          TextButton(
-            child: const Text('Ok'),
-            onPressed: () => Navigator.of(ctx).pop(true),
-          )
+          CustomButton.alt(
+            label: cancel,
+            onTap: () => Navigator.of(ctx).pop(false),
+          ),
+          CustomButton.dialog(
+            label: accept,
+            onTap: () => Navigator.of(ctx).pop(true),
+          ),
         ],
       ),
-    ) as bool?;
+    );
     return result ?? false;
   }
 }

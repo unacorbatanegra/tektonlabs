@@ -1,5 +1,4 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:flutter/material.dart';
 import '../../../../models/models.dart';
 import '../../../widgets/widgets.dart';
 
@@ -19,7 +18,8 @@ class ProductWidget extends StatelessWidget {
       padding: zero,
       child: Container(
         decoration: BoxDecoration(
-          border: Border.all(color: Palette.gray5, width: .5),
+          color: Palette.blue,
+          // border: Border.all(color: Palette.gray5, width: .5),
           borderRadius: BorderRadius.circular(6.0),
         ),
         padding: const EdgeInsets.all(6.0),
@@ -34,8 +34,10 @@ class ProductWidget extends StatelessWidget {
                 imageUrl: product.thumbnail,
                 placeholder: (ctx, url) => loadingIndicator,
                 imageBuilder: (ctx, image) => Container(
+                  
                   // constraints: const BoxConstraints.expand(),
                   decoration: BoxDecoration(
+                    color: Colors.white,
                     borderRadius: BorderRadius.circular(6.0),
                     image: DecorationImage(
                       image: image,
@@ -51,7 +53,7 @@ class ProductWidget extends StatelessWidget {
               children: [
                 Text(
                   "${product.price.format} \$",
-                  style: context.s1,
+                  style: context.s1?.copyWith(color: Colors.white),
                 ),
               ],
             ),
@@ -61,7 +63,7 @@ class ProductWidget extends StatelessWidget {
                 product.title,
                 style: context.s2?.copyWith(
                   fontSize: 16.0,
-                  color: Palette.gray2,
+                  color: Colors.white,
                   fontWeight: FontWeight.w500,
                 ),
               ),

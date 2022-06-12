@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="covid-exclamation-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs15" />
+<sodipodi:namedview
+   id="namedview13"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg11" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 10,1 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 1 V 4.203125 C 9.5667887,4.391598 8.2836809,4.9312331 7.1914062,5.7773437 L 5.9140625,4.5 6.7070312,3.7070313 a 1,1 0 0 0 0,-1.4140625 1,1 0 0 0 -1.4140625,0 l -1.4999999,1.5 -1.5,1.4999999 a 1,1 0 0 0 0,1.4140625 1,1 0 0 0 1.4140625,0 L 4.5,5.9140625 5.7773437,7.1914062 C 4.9312331,8.2836809 4.391598,9.5667887 4.203125,11 H 3 V 10 A 1,1 0 0 0 2,9 1,1 0 0 0 1,10 v 2 2 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 v -1 h 1.2011719 c 0.1879601,1.434669 0.7296109,2.718029 1.5742187,3.810547 L 4.5,18.085937 3.7070313,17.292969 a 1,1 0 0 0 -1.4140625,0 1,1 0 0 0 0,1.414062 l 1.5,1.5 1.4999999,1.5 a 1,1 0 0 0 1.4140625,0 1,1 0 0 0 0,-1.414062 L 5.9140625,19.5 l 1.84375,-1.84375 a 1.0001,1.0001 0 0 0 0,-1.414063 C 6.6709152,15.155333 6,13.662779 6,12 6,8.6744545 8.6744545,6 12,6 c 1.662779,0 3.155333,0.6709152 4.242187,1.7578125 a 1.0001,1.0001 0 0 0 1.414063,0 L 19.5,5.9140625 20.292969,6.7070312 a 1,1 0 0 0 1.414062,0 1,1 0 0 0 0,-1.4140625 l -1.5,-1.4999999 -1.5,-1.5 a 1,1 0 0 0 -1.414062,0 1,1 0 0 0 0,1.4140625 L 18.085937,4.5 16.810547,5.7753906 C 15.718029,4.9307828 14.434669,4.389132 13,4.2011719 V 3 h 1 A 1,1 0 0 0 15,2 1,1 0 0 0 14,1 h -2 z"
+   id="path2" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 16,18 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 0.002 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path4" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 10.5,8 C 9.1311354,8 8,9.1311354 8,10.5 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 C 10,10.212006 10.212006,10 10.5,10 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path6" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 16,9 c -3.854139,0 -7,3.145861 -7,7 0,3.854139 3.145861,7 7,7 3.854139,0 7,-3.145861 7,-7 0,-3.854139 -3.145861,-7 -7,-7 z m 0,2 c 2.773254,0 5,2.226746 5,5 0,2.773254 -2.226746,5 -5,5 -2.773254,0 -5,-2.226746 -5,-5 0,-2.773254 2.226746,-5 5,-5 z m 0,1 a 1,1 0 0 0 -1,1 l 0.002,3 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 L 17,13 a 1,1 0 0 0 -1,-1 z"
+   id="path8" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

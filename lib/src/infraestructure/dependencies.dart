@@ -5,9 +5,9 @@ import '../domain/domains.dart';
 
 final getIt = GetIt.instance;
 mixin Dependencies {
-  static Future<void> init() async {
+  static Future<void> init(HiveInterface  interface) async {
     getIt.registerSingleton<ProductDomain>(
-      ProductDomainImpl(ProductRepositoryImpl()),
+      ProductDomainImpl(ProductRepositoryImpl(interface)),
     );
     // Get.put<UserDomain>(UserDomain(), permanent: true).init();
     // Get.put<AuthDomain>(AuthDomain(), permanent: true).init();
@@ -22,21 +22,23 @@ mixin Dependencies {
     // Get.put<EmailDomain>(EmailDomain(), permanent: true).init();
     // Get.put<FeedDomain>(FeedDomain(), permanent: true).init();
 
-    return await handleHive();
+    return await handleHive(interface);
   }
 
-  static Future<void> handleHive() async {
-    await Hive.initFlutter();
+  static Future<void> handleHive(HiveInterface interface) async {
+    await interface.initFlutter();
+    interface.registerAdapter<Product>(ProductAdapter());
+    await interface.openBox('favorites');
     Future<void> open() async {
       try {
-        await Hive.openBox('settings');
+        await interface.openBox('settings');
       } on Exception {
-        await Hive.deleteBoxFromDisk('settings');
+        await interface.deleteBoxFromDisk('settings');
         return await open();
 
         // ignore: avoid_catching_errors
       } on HiveError {
-        await Hive.deleteBoxFromDisk('settings');
+        await interface.deleteBoxFromDisk('settings');
         return await open();
       }
       return;

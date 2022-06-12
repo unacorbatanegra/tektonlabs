@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="paper-roll-2-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs11" />
+<sodipodi:namedview
+   id="namedview9"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg7" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 9,3 C 7.9666664,3 6.5550189,3.2774173 5.2910156,4.1875 4.0270123,5.0975827 3,6.7222248 3,9 v 4 7 a 1.0001,1.0001 0 0 0 1.5546875,0.832031 l 1.0175781,-0.677734 1.4804688,0.740234 a 1.0001,1.0001 0 0 0 0.8945312,0 l 1.4804688,-0.740234 1.0175786,0.677734 A 1.0001,1.0001 0 0 0 12,20 V 13.398438 C 13.066786,14.368724 14.451991,15 16,15 19.301847,15 22,12.301847 22,9 22,5.8351156 19.500117,3.2892485 16.386719,3.078125 a 1,1 0 0 0 -0.0039,-0.00195 A 1,1 0 0 0 16,3 Z m 0,2 h 2.601563 C 10.631275,6.066784 10,7.4519831 10,9 v 4 5.164062 A 1.0001,1.0001 0 0 0 9.0527344,18.105469 L 7.5,18.882812 5.9472656,18.105469 A 1.0001,1.0001 0 0 0 5,18.164062 V 13 9 C 5,7.2777792 5.6396572,6.4024158 6.4589844,5.8125 7.2783115,5.2225842 8.3666652,5 9,5 Z m 7,0 c 2.220952,0 4,1.7790288 4,4 0,2.220947 -1.779053,4 -4,4 -2.220947,0 -4,-1.779053 -4,-4 0,-2.2209712 1.779048,-4 4,-4 z"
+   id="path2" />
+<circle
+   cx="16"
+   cy="9"
+   r="2"
+   fill="black"
+   id="circle4" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

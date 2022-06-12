@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="t-shirt-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" />
+<sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg5" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 4,3 C 2.9072706,3 2,3.9072706 2,5 v 5 c 0,1.09273 0.9072947,2 2,2 h 1 v 7 c 0,1.09273 0.9072947,2 2,2 h 10 c 1.092706,0 2,-0.907294 2,-2 v -7 h 1 c 1.092706,0 2,-0.907294 2,-2 V 5 C 22,3.9072947 21.09273,3 20,3 H 16 A 1.0001,1.0001 0 0 0 15,4 C 15,4.2333331 14.878617,4.7648683 14.478516,5.1816406 14.078414,5.5984129 13.391665,6 12,6 10.608335,6 9.9215858,5.5984129 9.5214844,5.1816406 9.1213829,4.7648683 9,4.2333331 9,4 A 1.0001,1.0001 0 0 0 8,3 Z M 4,5 H 7.1914062 C 7.347884,5.5266856 7.5957477,6.065883 8.078125,6.5683594 8.8780224,7.4015858 10.191668,8 12,8 13.808332,8 15.121978,7.4015858 15.921875,6.5683594 16.404252,6.065883 16.652116,5.5266856 16.808594,5 H 20 v 5 h -1 c -1.092706,0 -2,0.907294 -2,2 v 7 H 7 V 12 C 7,10.90727 6.0927053,10 5,10 H 4 Z"
+   id="path2" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

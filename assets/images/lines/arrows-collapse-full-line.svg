@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="arrows-collapse-full-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs11" />
+<sodipodi:namedview
+   id="namedview9"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg7" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 5,4 a 1,1 0 0 0 -0.7070313,0.2929687 1,1 0 0 0 0,1.4140625 L 6.5859375,8 H 5 A 1,1 0 0 0 4,9 1,1 0 0 0 5,10 H 9 A 1,1 0 0 0 9.7070313,9.7070313 1,1 0 0 0 9.9667969,9.0800781 1,1 0 0 0 10,9 V 5 A 1,1 0 0 0 9,4 1,1 0 0 0 8,5 V 6.5859375 L 5.7070312,4.2929687 A 1,1 0 0 0 5,4 Z M 15,14 A 1,1 0 0 0 14.292969,14.292969 1,1 0 0 0 14,15 v 4 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 v -1.585938 l 2.292969,2.292969 a 1,1 0 0 0 1.414062,0 1,1 0 0 0 0,-1.414062 L 17.414062,16 H 19 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path2" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 15,4 a 1,1 0 0 0 -1,1 v 4 a 1,1 0 0 0 1,1 h 4 A 1,1 0 0 0 20,9 1,1 0 0 0 19,8 h -1.585938 l 2.292969,-2.2929688 a 1,1 0 0 0 0,-1.4140625 1,1 0 0 0 -1.414062,0 L 16,6.5859375 V 5 A 1,1 0 0 0 15,4 Z M 5,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 1.5859375 l -2.2929688,2.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140625,0 L 8,17.414062 V 19 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 15 A 1,1 0 0 0 9.9667969,14.833984 1,1 0 0 0 9.9394531,14.691406 1,1 0 0 0 9.9238281,14.617188 1,1 0 0 0 9.7070313,14.292969 1,1 0 0 0 9.3828125,14.076172 1,1 0 0 0 9,14 Z"
+   id="path4" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

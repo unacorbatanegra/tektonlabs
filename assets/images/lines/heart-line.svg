@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="heart-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" />
+<sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg5" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 7,3 C 5.1222238,3 3.7483638,3.8603449 2.9882813,4.9160156 2.2281987,5.9716863 2,7.1333354 2,8 c 0,3.928568 2.462879,7.132476 4.8125,9.351562 2.349621,2.219087 4.701172,3.523438 4.701172,3.523438 a 1.0001,1.0001 0 0 0 0.972656,0 c 0,0 2.351551,-1.304351 4.701172,-3.523438 C 19.537121,15.132476 22,11.928568 22,8 22,7.1333354 21.771801,5.9716863 21.011719,4.9160156 20.251636,3.8603449 18.877776,3 17,3 15.122224,3 13.609193,3.7953677 12.599609,4.7851562 12.342524,5.0372011 12.19989,5.3145487 12,5.5800781 11.80011,5.3145487 11.657476,5.0372011 11.400391,4.7851562 10.390807,3.7953677 8.8777762,3 7,3 Z M 7,5 C 8.3222206,5 9.3095855,5.5379665 10,6.2148437 10.690414,6.891721 11,7.7833363 11,8 a 1.0001,1.0001 0 0 0 2,0 C 13,7.7833363 13.309586,6.891721 14,6.2148437 14.690414,5.5379665 15.677779,5 17,5 18.322221,5 18.948756,5.4729893 19.388672,6.0839844 19.828588,6.6949795 20,7.533336 20,8 20,11.071426 17.962875,13.867528 15.8125,15.898438 13.905449,17.699541 12.406855,18.52366 12,18.759766 11.593145,18.52366 10.094551,17.699541 8.1875,15.898438 6.0371255,13.867528 4,11.071425 4,8 4,7.533336 4.1714119,6.6949795 4.6113281,6.0839844 5.0512444,5.4729893 5.6777794,5 7,5 Z"
+   id="path2" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

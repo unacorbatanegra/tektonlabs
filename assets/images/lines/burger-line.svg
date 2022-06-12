@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="burger-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs19" />
+<sodipodi:namedview
+   id="namedview17"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg15" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 4,10 c -1.6449898,0 -3,1.354977 -3,3 0,1.645023 1.3550102,3 3,3 h 16 c 1.645005,0 3,-1.354995 3,-3 0,-1.645005 -1.354995,-3 -3,-3 h -0.121094 c -0.827441,0 -1.621938,0.328969 -2.207031,0.914063 L 15,13.585938 13.464844,12.050781 C 12.15229,10.738228 10.371721,10 8.515625,10 Z m 0,2 h 4.515625 c 1.3264604,0 2.597112,0.526799 3.535156,1.464844 L 12.585938,14 H 4 C 3.435852,14 3,13.564175 3,13 3,12.435825 3.435852,12 4,12 Z m 15.878906,0 H 20 c 0.564193,0 1,0.435807 1,1 0,0.564193 -0.435807,1 -1,1 h -2.585938 l 1.671875,-1.671875 C 19.296443,12.117619 19.581148,12 19.878906,12 Z"
+   id="path2" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 3,14 a 1.0001,1.0001 0 0 0 -1,1 v 2 c 0,2.197325 1.8027291,4 4,4 h 12 c 2.197305,0 4,-1.802695 4,-4 v -2 a 1.0001,1.0001 0 0 0 -1,-1 z m 1,2 h 16 v 1 c 0,1.116492 -0.883508,2 -2,2 H 6 C 4.8835742,19 4,18.116472 4,17 Z"
+   id="path4" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 12,3 C 9.5617741,3 7.2806729,3.451284 5.4667969,4.5546875 3.6529209,5.658091 2.3525003,7.4817529 2.0644531,9.8808594 1.9258011,11.035732 2.9036734,12 4,12 h 16 c 1.096327,0 2.07433,-0.964233 1.935547,-2.1191406 C 21.647495,7.4817588 20.347067,5.6580929 18.533203,4.5546875 16.71934,3.4512821 14.438235,3 12,3 Z m 0,2 c 2.18506,0 4.120257,0.4279142 5.494141,1.2636719 C 18.832547,7.077848 19.660258,8.2351578 19.908203,10 H 4.0917969 C 4.3397381,8.2351633 5.1674388,7.0778499 6.5058594,6.2636719 7.8797577,5.4279123 9.8149505,5 12,5 Z"
+   id="path6" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 7,7 A 1,1 0 0 0 6,8 1,1 0 0 0 7,9 h 0.00195 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path8" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 15,6 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 0.002 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path10" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 12,7 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 0.002 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path12" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

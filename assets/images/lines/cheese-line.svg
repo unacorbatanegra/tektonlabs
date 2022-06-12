@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="cheese-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs15" />
+<sodipodi:namedview
+   id="namedview13"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg11" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 10.783203,3.0234375 C 5.9731345,4.092344 3.3584369,7.2011899 2.46875,10.623047 1.5790631,14.044904 2.2481554,17.732606 3.6054688,20.447266 A 1.0001,1.0001 0 0 0 4.5,21 H 21 a 1.0001,1.0001 0 0 0 1,-1 V 17 A 1.0001,1.0001 0 0 0 21,16 C 20.86664,16 20.528305,15.928975 20.333984,15.789063 20.139663,15.64915 20,15.522229 20,15 20,14.477771 20.139663,14.35085 20.333984,14.210938 20.528305,14.071025 20.86664,14 21,14 a 1.0001,1.0001 0 0 0 1,-1 V 9 a 1,1 0 0 0 -0.539063,-0.8710937 1.0001,1.0001 0 0 0 -0.01367,-0.023437 l -10,-5 A 1.0001,1.0001 0 0 0 10.783203,3.0234375 Z M 10.921875,5.0800781 16.763672,8 H 6.0195312 C 7.0740531,6.6945959 8.6180561,5.6519112 10.921875,5.0800781 Z M 4.8652344,9.9433594 A 1,1 0 0 0 5,10 h 15 v 2.320313 c -0.285847,0.09115 -0.54338,0.05834 -0.833984,0.267578 C 18.527013,13.047977 18,13.92223 18,15 c 0,1.07777 0.527013,1.952023 1.166016,2.412109 C 19.45662,17.621346 19.714153,17.588534 20,17.679687 V 19 H 5.2285156 C 4.2400059,16.747027 3.7216296,13.760096 4.40625,11.126953 4.513771,10.713413 4.7048881,10.335017 4.8652344,9.9433594 Z"
+   id="path2" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 8,15 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 0.00195 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path4" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 13,12 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 0.002 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path6" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 15,15 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 0.002 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path8" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

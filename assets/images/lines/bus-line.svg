@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="bus-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs13" />
+<sodipodi:namedview
+   id="namedview11"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg9" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 8,2 C 5.2504232,2 3,4.2504232 3,7 v 6 4 c 0,1.256663 0.893303,2.140594 2,2.583984 V 20.5 C 5,21.316628 5.6833138,22 6.5,22 7.3166862,22 8,21.316628 8,20.5 V 20 h 8 v 0.5 c 0,0.816725 0.683275,1.5 1.5,1.5 0.816725,0 1.5,-0.683275 1.5,-1.5 V 19.583984 C 20.1067,19.14059 21,18.256649 21,17 V 13 7 A 1,1 0 0 0 20.921875,6.6132812 C 20.71307,4.0519423 18.612655,2 16,2 Z m 0,2 h 8 c 1.275978,0 2.150843,0.8875006 2.587891,2 H 12 5.4121094 C 5.8491458,4.8874985 6.7239839,4 8,4 Z M 5,8 h 6 v 4 H 5 Z m 8,0 h 6 v 4 h -6 z m -8,6 h 7 7 v 3 c 0,0.564193 -0.435807,1 -1,1 H 17 7 6 C 5.435852,18 5,17.564175 5,17 Z"
+   id="path2" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 8,15 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 0.00195 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path4" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 16,15 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 0.002 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path6" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

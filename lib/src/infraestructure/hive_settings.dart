@@ -1,7 +1,9 @@
+import 'package:hive/hive.dart';
+
 import 'hive_repository.dart';
 
 mixin HiveSettings {
-  static final _repository = HiveRepository<dynamic>();
+  static final _repository = HiveRepository<dynamic>(Hive);
 
   static T get<T>(String key) => _repository.get('settings', key) as T;
 

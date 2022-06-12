@@ -6,6 +6,9 @@
 import 'package:ff_annotation_route_library/ff_annotation_route_library.dart';
 import 'package:flutter/widgets.dart';
 
+import '../presentation/pages/favorites/favorites_page.dart';
+import '../presentation/pages/menu/menu_page.dart';
+import '../presentation/pages/product/product_page.dart';
 import '../presentation/pages/root/root_page.dart';
 
 FFRouteSettings getRouteSettings({
@@ -26,6 +29,36 @@ FFRouteSettings getRouteSettings({
           ),
         ),
         routeName: '/',
+      );
+    case '/favorites':
+      return FFRouteSettings(
+        name: name,
+        arguments: arguments,
+        builder: () => FavoritesPage(
+          key: asT<Key?>(
+            safeArguments['key'],
+          ),
+        ),
+      );
+    case '/menu':
+      return FFRouteSettings(
+        name: name,
+        arguments: arguments,
+        builder: () => MenuPage(
+          key: asT<Key?>(
+            safeArguments['key'],
+          ),
+        ),
+      );
+    case '/product':
+      return FFRouteSettings(
+        name: name,
+        arguments: arguments,
+        builder: () => ProductPage(
+          key: asT<Key?>(
+            safeArguments['key'],
+          ),
+        ),
       );
     default:
       return FFRouteSettings(

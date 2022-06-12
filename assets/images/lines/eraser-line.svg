@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="eraser-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview14"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg12" />
+<g
+   clip-path="url(#clip0_201_1300)"
+   id="g4">
+  <path
+     style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 15.142578,2.8339844 c -0.769859,0 -1.539481,0.2914712 -2.121094,0.8730469 L 10.900391,5.828125 3.1210938,13.607422 c -1.1632549,1.16318 -1.1632549,3.079007 0,4.242187 L 4.65625,19.384766 c 0.5623359,0.562216 1.3258429,0.878906 2.1210937,0.878906 H 13.021484 20 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 h -4.564453 l 3.949219,-3.949219 2.121093,-2.121094 a 1.0001,1.0001 0 0 0 0,-0.002 c 1.163092,-1.163241 1.163129,-3.078984 0,-4.2421873 L 17.263672,3.7070313 C 16.682059,3.1254556 15.912438,2.8339844 15.142578,2.8339844 Z m 0,1.9882812 c 0.25384,0 0.507545,0.099355 0.707031,0.2988281 l 4.242188,4.2421876 c 0.39887,0.3988952 0.398906,1.0151047 0,1.4140627 l -1.414063,1.416015 -5.65625,-5.6582028 1.414063,-1.4140625 c 0.199486,-0.1994735 0.453192,-0.2988281 0.707031,-0.2988281 z m -3.535156,3.1269531 5.65625,5.6582033 -4.65625,4.65625 H 6.7773437 c -0.2656281,0 -0.5192079,-0.105186 -0.7070312,-0.292969 L 4.5351562,16.435547 c -0.3988435,-0.398818 -0.3988435,-1.015245 0,-1.414063 z"
+     id="path2" />
+</g>
+<defs
+   id="defs9">
+  <clipPath
+     id="clip0_201_1300">
+    <rect
+       width="24"
+       height="24"
+       fill="white"
+       id="rect6" />
+  </clipPath>
+</defs>
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

@@ -1,7 +1,7 @@
-import 'package:occam/occam.dart';
-import '../../../models/models.dart';
 import 'package:collection/collection.dart';
+import 'package:occam/occam.dart';
 
+import '../../../models/models.dart';
 import '../../widgets/widgets.dart';
 import 'home_controller.dart';
 import 'widgets/product_widget.dart';
@@ -17,6 +17,12 @@ class HomePage extends StateWidget<HomeController> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Home'),
+        actions: [
+          CupertinoButton(
+            child: const Icon(Majes.table_heart_line),
+            onPressed: state.toFavorites,
+          )
+        ],
       ),
       body: Column(
         children: [
@@ -44,53 +50,75 @@ class HomePage extends StateWidget<HomeController> {
                   builder: (ctx, list) {
                     return Container(
                       margin: const EdgeInsets.symmetric(horizontal: 16.0),
-                      child: SingleChildScrollView(
-                        physics: always,
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          mainAxisSize: MainAxisSize.min,
-                          children: list
-                              .groupListsBy((e) => e.category)
-                              .entries
-                              .map(
-                                (e) => Column(
+                      child: Column(
+                        children: [
+                          Expanded(
+                            child: RefreshIndicator(
+                              onRefresh: state.onRefresh,
+                              child: SingleChildScrollView(
+                                physics: always,
+                                controller: state.scroll,
+                                child: Column(
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   mainAxisSize: MainAxisSize.min,
-                                  children: [
-                                    Text(
-                                      e.key.capitalize.replaceAll('-', ' '),
-                                      style: context.h6?.copyWith(
-                                        color: Palette.primary,
-                                        fontWeight: FontWeight.w600,
-                                      ),
-                                    ),
-                                    gap8,
-                                    SizedBox(
-                                      width: context.w,
-                                      child: GridView.count(
-                                        crossAxisCount: 2,
-                                        crossAxisSpacing: 16.0,
-                                        mainAxisSpacing: 16.0,
-                                        childAspectRatio: 13 / 16,
-                                        shrinkWrap: true,
-                                        physics:
-                                            const NeverScrollableScrollPhysics(),
-                                        children: e.value
-                                            .map(
-                                              (e) => ProductWidget(
-                                                product: e,
-                                                onTap: () => state.onTap(e),
+                                  children: list
+                                      .groupListsBy((e) => e.category)
+                                      .entries
+                                      .map(
+                                        (e) => Column(
+                                          crossAxisAlignment:
+                                              CrossAxisAlignment.start,
+                                          mainAxisSize: MainAxisSize.min,
+                                          children: [
+                                            Text(
+                                              e.key.capitalize
+                                                  .replaceAll('-', ' '),
+                                              style: context.h6?.copyWith(
+                                                color: Palette.primary,
+                                                fontWeight: FontWeight.w600,
                                               ),
-                                            )
-                                            .toList(),
-                                      ),
-                                    ),
-                                    gap18,
-                                  ],
+                                            ),
+                                            gap8,
+                                            SizedBox(
+                                              width: context.w,
+                                              child: GridView.count(
+                                                crossAxisCount: 2,
+                                                crossAxisSpacing: 16.0,
+                                                mainAxisSpacing: 16.0,
+                                                childAspectRatio: 13 / 16,
+                                                shrinkWrap: true,
+                                                physics:
+                                                    const NeverScrollableScrollPhysics(),
+                                                children: e.value
+                                                    .map(
+                                                      (e) => ProductWidget(
+                                                        product: e,
+                                                        onTap: () =>
+                                                            state.onTap(e),
+                                                      ),
+                                                    )
+                                                    .toList(),
+                                              ),
+                                            ),
+                                            gap18,
+                                          ],
+                                        ),
+                                      )
+                                      .toList(),
                                 ),
-                              )
-                              .toList(),
-                        ),
+                              ),
+                            ),
+                          ),
+                          RxWidget<bool>(
+                            notifier: state.isLoadingMore,
+                            builder: (ctx, value) {
+                              if (value) {
+                                return loadingIndicator.paddingAll(16.0);
+                              }
+                              return emptyWidget;
+                            },
+                          )
+                        ],
                       ),
                     );
                   },

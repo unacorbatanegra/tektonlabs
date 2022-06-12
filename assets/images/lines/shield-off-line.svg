@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="shield-off-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs11" />
+<sodipodi:namedview
+   id="namedview9"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg7" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 11.292969,2.2929688 C 10.833829,2.7521327 10.256048,3.1091059 9.6152344,3.3769531 A 1,1 0 0 0 9.078125,4.6855469 1,1 0 0 0 10.384766,5.2226562 C 10.951941,4.9855884 11.459639,4.5720563 11.974609,4.1855469 13.95008,5.7201243 16.279271,5.9885935 18,5.9414062 V 14 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 5 A 1.0001,1.0001 0 0 0 18.888672,4.0058594 C 17.631088,4.1455937 14.314193,3.9001304 12.707031,2.2929688 a 1.0001,1.0001 0 0 0 -1.414062,0 z M 5,4 A 1,1 0 0 0 4,5 v 9 c 0,2.583331 2.0653376,4.491145 3.9179687,5.814453 1.8526312,1.323308 3.6875003,2.105469 3.6875003,2.105469 a 1.0001,1.0001 0 0 0 0.789062,0 c 0,0 3.315611,-1.380937 5.597656,-3.722656 a 1,1 0 0 0 -0.01758,-1.414063 1,1 0 0 0 -1.414062,0.01953 c -1.646472,1.689527 -3.956928,2.791217 -4.541016,3.0625 C 11.704187,19.723987 10.542823,19.22897 9.0820313,18.185547 7.4346659,17.008857 6,15.416665 6,14 V 5 A 1,1 0 0 0 5,4 Z"
+   id="path2" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 3,2 a 1,1 0 0 0 -0.7070312,0.2929688 1,1 0 0 0 0,1.4140625 L 20.292969,21.707031 a 1,1 0 0 0 1.414062,0 1,1 0 0 0 0,-1.414062 L 3.7070313,2.2929688 A 1,1 0 0 0 3,2 Z"
+   id="path4" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="euro-circle-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs11" />
+<sodipodi:namedview
+   id="namedview9"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg7" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 12,1 C 5.9367165,1 1,5.9367165 1,12 1,18.063238 5.9367105,23 12,23 18.063244,23 23,18.063244 23,12 23,5.9367105 18.063238,1 12,1 Z m 0,2 c 4.982351,0 9,4.0176006 9,9 0,4.982345 -4.017655,9 -9,9 C 7.0176006,21 3,16.982351 3,12 3,7.0175946 7.0175946,3 12,3 Z"
+   id="path2" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 13,6 C 10.597213,6 8.5441526,7.4494547 7.5878906,9.5 H 7 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 H 7.1015625 C 7.0863541,11.673343 7,11.822858 7,12 c 0,0.177141 0.086354,0.326657 0.1015625,0.5 H 7 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 H 7.5878906 C 8.5441514,16.550544 10.59721,18 13,18 c 1.346146,0 2.599286,-0.448205 3.601562,-1.201172 a 1,1 0 0 0 0.199219,-1.40039 1,1 0 0 0 -1.40039,-0.197266 C 14.731069,15.704004 13.905452,16 13,16 11.744134,16 10.674865,15.395934 9.9433594,14.5 H 12 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 H 9.0996094 C 9.0775287,12.32869 9,12.177649 9,12 9,11.822349 9.0775288,11.671312 9.0996094,11.5 H 12 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 H 9.9433594 C 10.674865,8.6040679 11.744131,8 13,8 c 0.905458,0 1.731075,0.2959925 2.400391,0.7988281 A 1,1 0 0 0 16.800781,8.6015625 1,1 0 0 0 16.601562,7.2011719 C 15.59928,6.4481888 14.34614,6 13,6 Z"
+   id="path4" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

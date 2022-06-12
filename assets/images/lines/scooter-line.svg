@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="scooter-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" />
+<sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg5" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 12,1 C 10.156413,1 8.6594802,2.2936606 8.203125,4 H 6 A 1,1 0 0 0 5,5 1,1 0 0 0 6,6 H 8.2207031 C 8.3091951,6.3312653 8.3970364,6.6453081 8.5625,6.9375 7.4117884,7.570615 6.4811265,8.3988486 5.9511719,9.359375 5.2398618,10.648603 5,11.984793 5,13 v 5 c 0,1.645023 1.3550102,3 3,3 H 9.4160156 C 9.8594105,22.1067 10.743351,23 12,23 c 1.256649,0 2.14059,-0.8933 2.583984,-2 H 16 c 1.645005,0 3,-1.354995 3,-3 V 13 C 19,11.984793 18.760138,10.648603 18.048828,9.359375 17.518873,8.3988486 16.588212,7.570615 15.4375,6.9375 15.602963,6.645312 15.690802,6.3312649 15.779297,6 H 18 A 1,1 0 0 0 19,5 1,1 0 0 0 18,4 H 15.796875 C 15.34052,2.2936606 13.843587,1 12,1 Z m 0,2 c 1.116472,0 2,0.8835742 2,2 0,0.6083537 -0.265568,1.1401149 -0.6875,1.5078125 C 12.960205,6.814824 12.508084,7 12,7 11.491916,7 11.039795,6.814824 10.6875,6.5078125 10.265561,6.1401256 10,5.6083758 10,5 10,3.8835742 10.883528,3 12,3 Z M 9.9941406,8.3886719 C 10.592851,8.7437872 11.258486,9 12,9 c 0.741514,0 1.407149,-0.2562128 2.005859,-0.6113281 1.096046,0.4157276 1.83209,1.10217 2.292969,1.9375001 C 16.809742,11.252187 17,12.323209 17,13 v 5 c 0,0.564193 -0.435807,1 -1,1 h -1 v -4 c 0,-1.645005 -1.354995,-3 -3,-3 -1.645005,0 -3,1.354995 -3,3 v 4 H 8 C 7.435852,19 7,18.564175 7,18 V 13 C 7,12.323209 7.1902582,11.252187 7.7011719,10.326172 8.1620514,9.4908419 8.8980946,8.8043995 9.9941406,8.3886719 Z M 12,14 c 0.564193,0 1,0.435807 1,1 v 5 c 0,0.564193 -0.435807,1 -1,1 -0.564193,0 -1,-0.435807 -1,-1 v -5 c 0,-0.564193 0.435807,-1 1,-1 z"
+   id="path2" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

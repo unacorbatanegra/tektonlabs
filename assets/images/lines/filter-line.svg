@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="filter-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" />
+<sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg5" />
+<path
+   style="color:#000000;fill:#000000;-inkscape-stroke:none"
+   d="M 6,3 C 5.1733044,3 4.4072239,3.331114 3.8730469,3.9082031 3.3388698,4.4852923 3.0579301,5.364697 3.2773438,6.2265625 3.9407234,8.8323423 5.7369908,10.979743 8.1132813,12.119141 8.6566532,12.37971 9,12.847679 9,13.298828 v 6.083984 c 0,1.444945 1.602107,2.433225 2.894531,1.78711 l 2,-1 C 14.570263,19.832056 15,19.138239 15,18.382812 v -5.083984 c 0,-0.451134 0.343406,-0.919124 0.886719,-1.179687 C 18.26309,10.979747 20.05937,8.8323725 20.722656,6.2265625 20.942144,5.3646922 20.661135,4.4853063 20.126953,3.9082031 19.592771,3.3310999 18.826703,3 18,3 Z m 0,2 h 12 c 0.277896,0 0.523836,0.1224145 0.658203,0.2675781 0.134367,0.1451636 0.178112,0.2562852 0.125,0.4648438 C 18.26829,7.7553273 16.867709,9.4312015 15.021484,10.316406 13.919199,10.845043 13,11.924764 13,13.298828 v 5.083984 l -2,1 V 13.298828 C 11,11.924779 10.080882,10.845036 8.9785156,10.316406 7.1323703,9.4312058 5.731796,7.7553575 5.2167969,5.7324219 5.1637008,5.5238585 5.2074146,5.4127558 5.3417969,5.2675781 5.4761792,5.1224005 5.7221267,5 6,5 Z"
+   id="path2" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

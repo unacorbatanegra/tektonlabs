@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="phone-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" />
+<sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg5" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 4,3 A 1.0001,1.0001 0 0 0 3,4 C 3,6.0389361 3.4192496,8.7243093 4.5820312,11.398438 5.9823154,14.618757 8.498791,17.827715 12.605469,19.59375 14.6695,20.481313 17.122709,21 20,21 a 1.0001,1.0001 0 0 0 1,-1 v -4 a 1.0001,1.0001 0 0 0 -0.757813,-0.970703 l -4,-1 a 1.0001,1.0001 0 0 0 -1.017578,0.337891 l -2.470703,3.027343 C 9.8377996,15.938075 7.9932209,13.649032 6.8027344,11.201172 L 9.6503906,8.7597656 A 1.0001,1.0001 0 0 0 9.9707031,7.7578125 l -1,-4 A 1.0001,1.0001 0 0 0 8,3 Z M 5.1035156,5 H 7.21875 L 7.8808594,7.6425781 6,9.2539063 C 5.4853605,7.7130254 5.1885817,6.2709545 5.1035156,5 Z M 16.373047,16.125 19,16.78125 v 2.126953 c -1.609648,-0.08145 -3.026455,-0.345155 -4.287109,-0.75 z"
+   id="path2" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

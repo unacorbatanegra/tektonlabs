@@ -1,9 +1,9 @@
 import 'package:ff_annotation_route_library/ff_annotation_route_library.dart';
 import 'package:occam/occam.dart';
+import 'package:tektonlabs/src/presentation/pages/home/home_page.dart';
 
 import '../../widgets/widgets.dart';
 import 'root_controller.dart';
-import 'widgets/items.dart';
 import 'widgets/splash_widget.dart';
 
 @FFRoute(name: '/', routeName: '/')
@@ -22,21 +22,17 @@ class RootPage extends StateWidget<RootController> {
           if (value) return const SplashWidget();
           return Scaffold(
             key: RootController.scaffoldKey,
-            body: RxWidget<int>(
-              notifier: state.currentIndex,
-              builder: (context, value) => IndexedStack(
-                children: pages,
-                index: value,
-              ),
-            ),
-            bottomNavigationBar: RxWidget(
-              notifier: state.currentIndex,
-              builder: (ctx, value) => BottomNavigationBar(
-                items: bottoms,
-                onTap: state.onIndexChanged,
-                currentIndex: state.currentIndex(),
-              ),
-            ),
+            body: const SafeArea(child: HomePage()).paddingOnly(bottom: 16.0),
+
+            // body: RxWidget<int>(
+            //   notifier: state.currentIndex,
+            //   builder: (context, value) => IndexedStack(
+            //     children: pages,
+            //     index: value,
+            //   ),
+            // ),
+
+            // ),
           );
         },
       ),

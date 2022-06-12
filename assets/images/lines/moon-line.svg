@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="moon-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" />
+<sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg5" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 9.6914063,2.0585938 A 1.0001,1.0001 0 0 0 8.9804688,2.0722656 C 5.1861968,3.5970714 2,6.989139 2,11.470703 2,17.274042 6.725917,22 12.529297,22 c 4.481512,0 7.873581,-3.186194 9.398437,-6.980469 a 1.0001,1.0001 0 0 0 -1.113281,-1.355468 c -3.097243,0.583651 -5.338171,0.462391 -6.910156,-0.04492 -1.571986,-0.507314 -2.506034,-1.364696 -3.125,-2.455078 C 9.5413656,8.9832985 9.7497345,5.6725295 10.326172,3.2304688 A 1.0001,1.0001 0 0 0 9.6914063,2.0585938 Z M 8.1425781,4.7910156 c -0.341223,2.3878722 -0.4129726,5.0491693 0.8984375,7.3593754 0.8407742,1.481124 2.2438924,2.72431 4.2480474,3.371093 1.563505,0.504577 3.603923,0.542227 5.943359,0.292969 C 17.772189,18.235355 15.458368,20 12.529297,20 7.8068073,20 4,16.193154 4,11.470703 4,8.5584546 5.7435998,6.2531988 8.1425781,4.7910156 Z"
+   id="path2" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

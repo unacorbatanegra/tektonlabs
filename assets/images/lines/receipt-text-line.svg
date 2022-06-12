@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="receipt-text-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" />
+<sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg5" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 6,2 C 4.3549921,2 3,3.3549921 3,5 v 16 a 1.0001,1.0001 0 0 0 1.625,0.78125 l 1.9277344,-1.542969 2.3925781,1.59375 A 1.0001,1.0001 0 0 0 10.125,21.78125 l 1.875,-1.5 1.875,1.5 a 1.0001,1.0001 0 0 0 1.179688,0.05078 L 17.447266,20.238281 19.375,21.78125 A 1.0001,1.0001 0 0 0 21,21 V 5 C 21,3.3550102 19.645023,2 18,2 Z m 0,2 h 12 c 0.564175,0 1,0.435852 1,1 V 18.917969 L 18.125,18.21875 a 1.0001,1.0001 0 0 0 -1.179688,-0.05078 L 14.552734,19.761719 12.625,18.21875 a 1.0001,1.0001 0 0 0 -1.25,0 L 9.4472656,19.761719 7.0546875,18.167969 A 1.0001,1.0001 0 0 0 5.875,18.21875 L 5,18.917969 V 5 C 5,4.4358701 5.4358701,4 6,4 Z M 8,6 A 1,1 0 0 0 7,7 1,1 0 0 0 8,8 h 8 A 1,1 0 0 0 17,7 1,1 0 0 0 16,6 Z m 0,4 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 0,4 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 4 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+   id="path2" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>

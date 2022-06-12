@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="table-heart-line.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs11" />
+<sodipodi:namedview
+   id="namedview9"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="32.75"
+   inkscape:cx="11.984733"
+   inkscape:cy="12"
+   inkscape:window-width="1296"
+   inkscape:window-height="1067"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg7" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="M 5,3 C 3.3549921,3 2,4.3549921 2,6 v 2 6 4 c 0,1.645023 1.3550102,3 3,3 h 4 1 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 v -4 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 V 9 h 4 v 2 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 9 h 4 v 2 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 8 6 C 22,4.3550102 20.645023,3 19,3 Z m 0,2 h 14 c 0.564175,0 1,0.435852 1,1 V 7 H 15 9 4 V 6 C 4,5.4358701 4.4358701,5 5,5 Z M 4,9 h 4 v 4 H 4 Z m 0,6 h 4 v 4 H 5 C 4.435852,19 4,18.564175 4,18 Z"
+   id="path2" />
+<path
+   style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   d="m 15,13 c -1.07777,0 -1.952023,0.527013 -2.412109,1.166016 C 12.127804,14.805019 12,15.466661 12,16 c 0,0.670374 0.274197,1.146709 0.589844,1.652344 0.315647,0.505634 0.717381,1.015077 1.15625,1.517578 0.877738,1.005001 1.897107,1.970727 2.595703,2.582031 a 1.0001,1.0001 0 0 0 1.316406,0 c 0.698596,-0.611304 1.717965,-1.57703 2.595703,-2.582031 0.438869,-0.502501 0.840603,-1.011944 1.15625,-1.517578 C 21.725803,17.146709 22,16.670374 22,16 22,15.466661 21.872196,14.805019 21.412109,14.166016 20.952023,13.527013 20.07777,13 19,13 18.150086,13 17.493339,13.366509 17,13.818359 16.506661,13.366509 15.849914,13 15,13 Z m 0,2 c 0.522229,0 0.64915,0.139663 0.789063,0.333984 C 15.928975,15.528305 16,15.86664 16,16 h 2 c 0,-0.13336 0.07102,-0.471695 0.210937,-0.666016 C 18.35085,15.139663 18.477771,15 19,15 c 0.522229,0 0.64915,0.139663 0.789062,0.333984 C 19.928975,15.528305 20,15.86664 20,16 c 0,-0.07038 -0.05913,0.231682 -0.285156,0.59375 -0.226025,0.362068 -0.574283,0.810058 -0.96875,1.261719 C 18.173024,18.511628 17.569613,19.062069 17,19.59375 16.430387,19.062069 15.826976,18.511628 15.253906,17.855469 14.859439,17.403808 14.511181,16.955818 14.285156,16.59375 14.059132,16.231682 14,15.929625 14,16 14,15.86664 14.071025,15.528305 14.210938,15.333984 14.35085,15.139663 14.477771,15 15,15 Z"
+   id="path4" />
+<path
+   id="_StrokeToPathSelectorObject" />
+d=&quot;M0 0 H 0&quot;/&gt;
+    </svg>
