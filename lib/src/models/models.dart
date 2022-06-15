@@ -1,5 +1,7 @@
 import 'package:intl/intl.dart';
+
 export 'category.dart';
+export 'lookup.dart';
 export 'product.dart';
 
 extension DateTimeFormat on DateTime {

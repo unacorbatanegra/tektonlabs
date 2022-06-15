@@ -42,4 +42,9 @@ class ProductController extends StateController {
       launchUrlString('https://www.linkedin.com/in/unacorbatanegra/');
     }
   }
+
+  Future<bool> onWillPop() async {
+    navigator.pop(!favorite.value);
+    return true;
+  }
 }

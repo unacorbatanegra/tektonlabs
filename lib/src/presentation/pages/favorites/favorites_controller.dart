@@ -15,11 +15,15 @@ class FavoritesController extends StateController {
 
   void init() async {
     isLoading.value = true;
-    list.asignAll(await domain.getFavorites());
+    list.assignAll(await domain.getFavorites());
     isLoading.value = false;
   }
 
-  void onTap(Product e) {
-    navigator.pushNamed(RouteName.product, arguments: {'data': e});
+  void onTap(Product e) async {
+    final result = await navigator.pushNamed(
+      RouteName.product,
+      arguments: {'data': e},
+    ) as bool?;
+    if (result ?? false) list.assignAll(await domain.getFavorites());
   }
 }

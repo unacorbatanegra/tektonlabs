@@ -15,11 +15,14 @@ class HomeController extends StateController {
   late ScrollController scroll;
 
   final domain = getIt.get<ProductDomain>();
+  final map = <String, List<Lookup>>{};
   @override
   void initState() {
     controller = TextEditingController();
     scroll = ScrollController();
     scroll.addListener(onScroll);
+    map['selectedFilterBrand'] ??= [];
+    map['selectedFilterCategory'] ??= [];
     super.initState();
   }
 
@@ -31,10 +34,9 @@ class HomeController extends StateController {
   Future<void> init() async {
     isLoading.value = true;
     final result = await domain.getList(length.value, 5);
-    list.asignAll(result);
-    full.clear();
-    full.addAll(list);
-    length.value = list.length;
+    list.assignAll(result);
+    full.assignAll(list);
+    filter();
     isLoading.value = false;
   }
 
@@ -46,9 +48,8 @@ class HomeController extends StateController {
     await Future.delayed(const Duration(milliseconds: 500));
     isLoadingMore.value = false;
     list.addAll(result);
-    full.clear();
-    full.addAll(list);
-    length.value = list.length;
+    full.assignAll(list);
+    length.value = full.length;
   }
 
   @override
@@ -68,14 +69,67 @@ class HomeController extends StateController {
     isSearching.value = !isSearching.value;
     if (!isSearching.value) {
       controller.clear();
+      filter();
     }
-    onChanged(controller.text);
   }
 
-  void onFilter() {}
+  void onFilter() async {
+    if (isLoading()) return;
+    map['filterBrand'] = full.toListLookup(
+      (e) => Lookup(id: e.brand, name: e.brand),
+    );
+    map['filterCategory'] = full.toListLookup(
+      (e) => Lookup(id: e.category, name: e.category),
+    );
+
+    final r = await ModalPicker.filter(
+      context: context,
+      items: [
+        FilterItem(
+          items: map['filterBrand']!,
+          label: 'Brand',
+          selected: map['selectedFilterBrand']!,
+          toText: (a) => a.name,
+        ),
+        FilterItem(
+          items: map['filterCategory']!,
+          label: 'Category',
+          selected: map['selectedFilterCategory']!,
+          toText: (a) => (a.name).toString().capitalize.replaceAll('-', ' '),
+        ),
+      ],
+    );
+    final brand = r[0];
+    final category = r[1];
+
+    map['selectedFilterBrand']!.assignAll(
+      List<Lookup>.from(brand.selected),
+    );
+    map['selectedFilterCategory']!.assignAll(
+      List<Lookup>.from(category.selected),
+    );
+
+    filter();
+  }
+
+  void filter([String? value]) {
+    list.assignAll(
+      full.where(
+        (e) =>
+            e.title.toLowerCase().contains(controller.text.toLowerCase()) &&
+            map['selectedFilterBrand']!.filter(
+              (id) => id == e.brand,
+            ) &&
+            map['selectedFilterCategory']!.filter(
+              (id) => id == e.category,
+            ),
+      ),
+    );
+    length.value = list.length;
+  }
 
   void onChanged(String value) {
-    list.asignAll(
+    list.assignAll(
       full.where(
         (e) => e.title.toLowerCase().contains(value.toLowerCase()),
       ),
@@ -98,9 +152,10 @@ class HomeController extends StateController {
 
   Future<void> onRefresh() async {
     isLoading.value = true;
-    final result = await domain.getList(0, list.length);
-    list.asignAll(result);
-    length.value = list.length;
+    final result = await domain.getList(0, full.length);
+    full.assignAll(result);
+    filter();
+
     isLoading.value = false;
   }
 

@@ -1,12 +1,24 @@
 import '../presentation/widgets/widgets.dart';
 import 'calendar_overlay/calendar_overlay.dart';
 import 'calendar_overlay/calendar_overlay_controller.dart';
-
+import 'filter_picker/filter_picker.dart';
 import 'modal_picker_overlay/modal_picker_overlay.dart';
 import 'time_overlay/time_overlay.dart';
 
 mixin ModalPicker {
   static bool _isModalOpen = false;
+
+  static Future<List<FilterItem>> filter({
+    required List<FilterItem> items,
+    required BuildContext context,
+  }) async {
+    final result = await showCupertinoModalPopup(
+      context: context,
+      builder: (ctx) => FilterPicker(items: items),
+    ) as List<FilterItem>?;
+    if (result == null) return items;
+    return result;
+  }
 
   static Future<T?> modalPick<T>({
     required BuildContext context,

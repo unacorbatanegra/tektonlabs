@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  occam: ^0.0.1
+  occam: ^0.0.3
   ff_annotation_route_core: ^2.0.4
   dio: ^4.0.6
   gap: ^2.0.0
@@ -39,6 +39,7 @@ dev_dependencies:
   build_runner: any
   hive_generator: ^1.1.2
   build_version: ^2.0.3
+  hive_test: ^1.0.1
   flutter_lints: ^1.0.0
   flutter_application_id: ^2.0.0-dev
   flutter_launcher_icons: ^0.9.3
@@ -96,5 +97,4 @@ flutter_application_id:
   ios:
     id: "unacorbatanegra.dev.tektonlabs"
     name: "AppCatalogo"
-
 # run with: `icon_font_generator --from=assets/images/lines --class-name=Majes --out-font=assets/fonts/Majes_icons.ttf --out-flutter=lib/src/presentation/widgets/Majes_icons.dart`
