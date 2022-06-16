@@ -1,3 +1,4 @@
+import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
@@ -5,7 +6,7 @@ import '../domain/domains.dart';
 
 final getIt = GetIt.instance;
 mixin Dependencies {
-  static Future<void> init(HiveInterface  interface) async {
+  static Future<void> init(HiveInterface interface) async {
     getIt.registerSingleton<ProductDomain>(
       ProductDomainImpl(ProductRepositoryImpl(interface)),
     );
@@ -45,7 +46,7 @@ mixin Dependencies {
     }
 
     await open();
-    GetIt.instance.registerSingleton<ApiRepository>(ApiRepository());
+    GetIt.instance.registerSingleton<ApiRepository>(ApiRepository(null));
     // Get.put<ApiRepository>(ApiRepository(), permanent: true);
 
     return;

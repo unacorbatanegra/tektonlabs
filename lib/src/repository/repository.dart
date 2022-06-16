@@ -9,7 +9,7 @@ abstract class Repository<T> {
 
   Repository(this.hiveInterface);
   ApiRepository get repo => GetIt.I.get<ApiRepository>();
-  Dio get dio => repo.dio;
+  Dio get dio => repo.dio!;
   // HiveRepository hive = HiveRepository<T>(hiveInterface);
 
   String get apiUrl => dio.options.baseUrl;

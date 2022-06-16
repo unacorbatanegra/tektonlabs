@@ -43,6 +43,7 @@ dev_dependencies:
   flutter_lints: ^1.0.0
   flutter_application_id: ^2.0.0-dev
   flutter_launcher_icons: ^0.9.3
+  http_mock_adapter: ^0.3.3
 
 flutter:
   uses-material-design: true

@@ -129,11 +129,7 @@ class HomeController extends StateController {
   }
 
   void onChanged(String value) {
-    list.assignAll(
-      full.where(
-        (e) => e.title.toLowerCase().contains(value.toLowerCase()),
-      ),
-    );
+    filter(value);
   }
 
   void onTap(Product e) {

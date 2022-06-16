@@ -1,15 +1,17 @@
 // ignore_for_file: avoid_print
 
+import 'dart:io';
+
 import 'package:dio/dio.dart';
 import 'package:pretty_dio_logger/pretty_dio_logger.dart';
 
 import '../utils/utils.dart';
 
 class ApiRepository {
-  Dio dio = Dio();
+  Dio? dio;
 
-  ApiRepository() {
-    dio = Dio(
+  ApiRepository(this.dio) {
+    dio ??= Dio(
       BaseOptions(
         baseUrl: AppConfig.url,
         validateStatus: (status) => (status ?? 500) < 501,
@@ -20,7 +22,14 @@ class ApiRepository {
       ),
     );
 
-    dio.interceptors.add(PrettyDioLogger());
+    final myInterceptor = InterceptorsWrapper(onError: (dioError, handler) {
+      if (dioError.error is SocketException) {
+        handler.resolve(noInternet(dioError.requestOptions));
+      }
+    });
+
+    dio?.interceptors.add(PrettyDioLogger());
+    dio?.interceptors.add(myInterceptor);
   }
 
   Response noInternet(RequestOptions options) {
